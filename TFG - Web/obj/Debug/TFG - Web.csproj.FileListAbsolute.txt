@@ -1,0 +1,7 @@
+D:\Programacao\C#\TFG - Web\TFG - Web\bin\TFG - Web.dll
+D:\Programacao\C#\TFG - Web\TFG - Web\bin\TFG - Web.pdb
+D:\Programacao\C#\TFG - Web\TFG - Web\bin\Mono.Security.dll
+D:\Programacao\C#\TFG - Web\TFG - Web\bin\Npgsql.dll
+D:\Programacao\C#\TFG - Web\TFG - Web\obj\Debug\TFG - Web.dll
+D:\Programacao\C#\TFG - Web\TFG - Web\obj\Debug\TFG - Web.pdb
+D:\Programacao\C#\TFG - Web\TFG - Web\obj\Debug\ResolveAssemblyReference.cache
